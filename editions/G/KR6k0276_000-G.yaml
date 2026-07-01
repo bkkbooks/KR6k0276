@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0276/g/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分律比丘尼鈔科
+  edition:
+    short: g
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2261.xml
+    old_id: G104n2261
+hash: sha256:61f4ca1d61b66eb349472454d6ca0a574276853f874674598a2a50ca680582f4
