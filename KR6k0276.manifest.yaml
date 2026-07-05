@@ -14,9 +14,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6k0276_000.yaml, hash: 'sha256:61f4ca1d61b66eb349472454d6ca0a574276853f874674598a2a50ca680582f4'}
-  - {seq: 1, filename: KR6k0276_001.yaml, hash: 'sha256:5514987bdaa3ab0cc588bce1251084b3b99dcc855510d7a8a2cbfbfb600f5364'}
+  - {seq: 1, filename: KR6k0276_001.yaml, hash: 'sha256:8fd4be174c17a09761f435754af9d389daaafe55b47fdfdee017e66507cc23fd'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0276_001.markers.yaml, hash: 'sha256:69e49bc94a0da6055f75fc87216f0e8fd161d3323239d21de999869025e0cd2e'}
+  - {seq: 0, role: markers, filename: assets/KR6k0276_000.markers.yaml, hash: 'sha256:7dcbdccbe7168710c3f9d936806291d8e4088e7b255049dcdd237e49e426d540'}
+  - {seq: 1, role: markers, filename: assets/KR6k0276_001.markers.yaml, hash: 'sha256:0df9909d92dc091f23dbf6e0ca555eefc19acd1199b2d1424fb2850a3fc1391f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -28,9 +29,6 @@ table_of_contents:
   label: 四分律比丘尼鈔科
   type: juan
   level: 1
-hash: sha256:9625102df93d9900ce25937e61f7e84c78e65841bc3c76a43ba44d055d278c1c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:38eecce137c31eb821882f5f5ae8e734cb35a2978bc577ec1bc9d22afa7050e0
 editions:
 - short: G
