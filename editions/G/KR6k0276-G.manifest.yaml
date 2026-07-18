@@ -23,7 +23,7 @@ assets:
   - {seq: 1, filename: KR6k0276_001-G.yaml, hash: 'sha256:8fd4be174c17a09761f435754af9d389daaafe55b47fdfdee017e66507cc23fd'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0276_000-G.markers.yaml, hash: 'sha256:e6ec730bfd906812cae5dc49522d42e4ccf928b722363a55671ba5b21fe4985a'}
-  - {seq: 1, role: markers, filename: assets/KR6k0276_001-G.markers.yaml, hash: 'sha256:f46636780f6f8c2115c5198bbc314fbebd4ae1783c65d215bfb9d05ae1a55204'}
+  - {seq: 1, role: markers, filename: assets/KR6k0276_001-G.markers.yaml, hash: 'sha256:09267290ec31edc173d363bba64f82b16563b817e0d6dc85cb1689419d60e44e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,4 +35,4 @@ table_of_contents:
   label: 四分律比丘尼鈔科
   type: juan
   level: 1
-hash: sha256:071bc61ea314c1a741efdd1c49b089a2416cee9d355e44cdce76ee59e7c3b28d
+hash: sha256:a86bd0be610651485fc9988820536e0a2bc58a198f50ed0005ef10fb7914a956
